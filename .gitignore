@@ -1,0 +1,20 @@
+ECHO is on.
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+target/
+out/
+*.idea/
+*.iws
+*.ipr
+*.iml
+
+# Node / React
+node_modules/
+dist/
+.env
+build/
